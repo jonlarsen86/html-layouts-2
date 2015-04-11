@@ -1,0 +1,56 @@
+html,body{
+	height: 100%;
+}
+.top{
+	display: inline-block;
+	height: 14%;
+	width: 31%;
+	margin: 5px;
+}
+.red{
+	background-color: #D0021B;
+}
+.blue{
+	background-color: #4A90E2;
+}
+.gray{
+	background-color: #4A4A4A;
+}
+.content{
+	background-color: #FFFFFF;
+	font-family: sans-serif;
+	font-size: 14px;
+	-webkit-box-sizing: border-box;
+  	-moz-box-sizing: border-box;    
+  	box-sizing: border-box;
+  	padding: 15px;
+}
+.mid{
+	height: 30%;
+	margin: 0px;
+	display: inline-block;
+}
+.left{
+	width: 29%;
+}
+.right{
+	width: 70%;
+	margin-left: -4px;
+}
+.bot{
+	height: 14%;
+	margin: 10px 0px 10px 0px;
+	display: inline-block;
+}
+.left1{
+	width: 70%;
+}
+.right1{
+	width: 29%;
+	margin-left: -4px;
+}
+.brchild{
+	height: 100%;
+	width: 75%;
+  	margin: 0 auto;
+}
